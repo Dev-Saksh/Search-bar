@@ -1,0 +1,49 @@
+* {
+  margin:0;
+  padding:0;
+}
+.cente{
+  text-align: center;
+  
+}
+#myTable{
+  width:100%;
+  
+}
+
+nav{
+  padding: 30px 0 0 0;
+  height:40px;
+  
+}
+
+
+nav{
+  background-color: black;
+  height:50px;
+  
+}
+#search ,placeholder{
+  border-radius: 20px;
+  height:25px;
+  width:80vw;
+  text-align: center;
+  
+}
+.tab ,tr{
+  border-bottom: 1px solid black;
+ background-color: #c1d1f5;
+}
+
+.tab,th,td{
+  padding:15px;
+  border-collapse: collapse;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+  text-align: left;
+}
+
+.header{
+  background-color: whitesmoke;
+  color:black
+}
